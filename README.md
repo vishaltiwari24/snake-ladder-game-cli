@@ -11,6 +11,8 @@ Everyone starts at 0
 
 ## Steps to start the game
 Download the jar file
+- [JarFileDownloadLink](https://github.com/vishaltiwari24/snake-ladder-game-cli/blob/25ac1d4809324d6e00f4091839551d4ddd18ecf7/Game/SnakeLadderGameCli-1.0-SNAPSHOT.jar)
+
 open command-prompt or terminal on the Download location
 run the following command
 
@@ -19,6 +21,8 @@ run the following command
 Alternate for windows
 Copy the startGame.bat file in the Download location
 Double-click on the startGame.bat file
+
+- [DownloadGameFolder](https://github.com/vishaltiwari24/snake-ladder-game-cli/tree/25ac1d4809324d6e00f4091839551d4ddd18ecf7/Game)
 
 ## Edge Cases of the game
 Currently, the game is set with the static snake & ladder position

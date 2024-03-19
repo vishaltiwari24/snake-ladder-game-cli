@@ -1,0 +1,175 @@
+Microsoft Windows [Version 10.0.22631.3296]
+(c) Microsoft Corporation. All rights reserved.
+
+> java -jar SnakeLadderGameCli-1.0-SNAPSHOT.jar
+  ___   _  _     _     _  __  ___         _        _     ___    ___    ___   ___           ___   _      ___           ___     _     __  __   ___
+ / __| | \| |   /_\   | |/ / | __|  ___  | |      /_\   |   \  |   \  | __| | _ \  ___    / __| | |    |_ _|  ___    / __|   /_\   |  \/  | | __|
+ \__ \ | .` |  / _ \  | ' <  | _|  |___| | |__   / _ \  | |) | | |) | | _|  |   / |___|  | (__  | |__   | |  |___|  | (_ |  / _ \  | |\/| | | _|
+ |___/ |_|\_| /_/ \_\ |_|\_\ |___|       |____| /_/ \_\ |___/  |___/  |___| |_|_\         \___| |____| |___|         \___| /_/ \_\ |_|  |_| |___|
+
+Enter Number of player (Maximum player: 10 Minimum Player:2)
+2
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 5 and moved to position 5
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 1 and moved to position 1
+( ????? ) Rocking the Game! New Position: 38
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 6 and moved to position 11
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 4 and moved to position 42
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 4 and moved to position 15
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 6 and moved to position 48
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 2 and moved to position 17
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 3 and moved to position 51
+( ????? ) Rocking the Game! New Position: 67
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 1 and moved to position 18
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 5 and moved to position 72
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 2 and moved to position 20
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 6 and moved to position 78
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 5 and moved to position 25
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 6 and moved to position 84
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 5 and moved to position 30
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 6 and moved to position 90
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 6 and moved to position 36
+( ????? ) Rocking the Game! New Position: 44
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 1 and moved to position 91
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 5 and moved to position 49
+(???) Sad bit by a snake! New Position: 11
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 5 and moved to position 96
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 3 and moved to position 14
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 1 and moved to position 97
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 4 and moved to position 18
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 1 and moved to position 98
+(???) Sad bit by a snake! New Position: 78
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 4 and moved to position 22
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 3 and moved to position 81
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 2 and moved to position 24
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 2 and moved to position 83
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 2 and moved to position 26
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 1 and moved to position 84
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 4 and moved to position 30
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 6 and moved to position 90
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 1 and moved to position 31
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 6 and moved to position 96
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 6 and moved to position 37
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 1 and moved to position 97
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 3 and moved to position 40
+Player_1 press enter to roll a dice
+
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 5 and moved to position 45
+Player_1 press enter to roll a dice
+
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 6 and moved to position 51
+( ????? ) Rocking the Game! New Position: 67
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 1 and moved to position 98
+(???) Sad bit by a snake! New Position: 78
+************************---------------------*******************************
+Player_2 press enter to roll a dice
+
+Player_2 rolled a 6 and moved to position 73
+Player_1 press enter to roll a dice
+
+Player_1 rolled a 2 and moved to position 80
+( ????? ) Rocking the Game! New Position: 100
+Player_1 wins the game!
+ _____ _  _   _   _  _ _  __    __   _____  _   _
+ |_   _| || | /_\ | \| | |/ /    \ \ / / _ \| | | |
+   | | | __ |/ _ \| .` | ' <      \ V / (_) | |_| |
+   |_| |_||_/_/ \_\_|\_|_|\_\      |_| \___/ \___/
